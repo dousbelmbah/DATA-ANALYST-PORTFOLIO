@@ -120,7 +120,7 @@ To leverage data analytics and business intelligence to help organizations make 
 
 💼 LinkedIn: www.linkedin.com/in/dousbel-mbah
 
-💻 GitHub: github.com/dousbel-mbah
+💻 GitHub: [ github.com/dousbel-mbah](https://github.com/dousbelmbah)
 
 ## 📌 Portfolio Status
 
