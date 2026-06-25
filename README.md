@@ -40,35 +40,35 @@ I am continuously expanding my expertise in analytics, business intelligence, an
 
 ## 📁 Portfolio Projects
 
-### 👥 HR Analytics Dashboard
-**Tools:** Power BI, Excel
-
-Analyzed employee demographics, attrition, hiring trends, and workforce performance to support HR decision-making.
-
 ### 📊 Sales Performance & Forecasting Dashboard
 **Tools:** Power BI, Excel
 
 Tracked revenue, profit, sales trends, and forecasted future performance using historical sales data.
+
+### 🎯 Business KPI Executive Dashboard
+**Tools:** Power BI, SQL
+
+Developed an executive-level dashboard that consolidated key business metrics, including revenue, profit, customer growth, operational efficiency, and performance KPIs for strategic decision-making.
+
+### 👥 HR Analytics Dashboard
+**Tools:** Power BI, Excel
+
+Analyzed employee demographics, attrition, hiring trends, and workforce performance to support HR decision-making.
 
 ### 🏨 Hotel Performance Analytics Dashboard
 **Tools:** Power BI, Excel
 
 Evaluated occupancy rates, booking trends, revenue performance, and customer behavior to identify operational improvement opportunities.
 
-### 🗃 SQL Business Intelligence Case Study
-**Tools:** SQL
+### 💳 Customer Segmentation Analysis
+**Tools:** Python, SQL
 
-Performed advanced data exploration, business reporting, and KPI analysis using joins, aggregations, subqueries, and window functions.
+Segmented customers based on purchasing patterns to identify high-value, loyal, new, and at-risk customers for targeted business strategies.
 
 ### 🏪 E-Commerce Sales & Customer Analytics
 **Tools:** SQL, Power BI, Python
 
 Analyzed customer purchasing behavior, product performance, revenue trends, customer lifetime value, and retention metrics.
-
-### 💳 Customer Segmentation Analysis
-**Tools:** Python, SQL
-
-Segmented customers based on purchasing patterns to identify high-value, loyal, new, and at-risk customers for targeted business strategies.
 
 ### 📈 Marketing Campaign Performance Dashboard
 **Tools:** Power BI, Excel
@@ -90,10 +90,11 @@ Monitored inventory levels, stock turnover, supplier performance, fulfillment ef
 
 Analyzed delivery times, shipping costs, on-time delivery rates, and operational efficiency to improve logistics performance.
 
-### 🎯 Business KPI Executive Dashboard
-**Tools:** Power BI, SQL
+### 🗃 SQL Business Intelligence Case Study
+**Tools:** SQL
 
-Developed an executive-level dashboard that consolidated key business metrics, including revenue, profit, customer growth, operational efficiency, and performance KPIs for strategic decision-making.
+Performed advanced data exploration, business reporting, and KPI analysis using joins, aggregations, subqueries, and window functions.
+
 ## 📊 Core Competencies
 
 ✔ Data Cleaning & Preparation
