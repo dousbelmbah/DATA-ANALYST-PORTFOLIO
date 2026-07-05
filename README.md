@@ -43,6 +43,8 @@ I am continuously expanding my expertise in analytics, business intelligence, an
 ### 📊 Sales Performance & Forecasting Dashboard
 **Tools:** Power BI, Excel
 
+https://github.com/dousbelmbah/Sales-Performance-Analysis
+
 Tracked revenue, profit, sales trends, and forecasted future performance using historical sales data.
 
 ### 🎯 Business KPI Executive Dashboard
