@@ -47,13 +47,10 @@ https://github.com/dousbelmbah/Sales-Performance-Analysis
 
 Tracked revenue, profit, sales trends, and forecasted future performance using historical sales data.
 
-### 🎯 Business KPI Executive Dashboard
-**Tools:** Power BI, SQL
-
-Developed an executive-level dashboard that consolidated key business metrics, including revenue, profit, customer growth, operational efficiency, and performance KPIs for strategic decision-making.
-
 ### 👥 HR Analytics Dashboard
 **Tools:** Power BI, Excel
+
+https://github.com/dousbelmbah/HR-Analytics-Dashboard
 
 Analyzed employee demographics, attrition, hiring trends, and workforce performance to support HR decision-making.
 
@@ -61,6 +58,11 @@ Analyzed employee demographics, attrition, hiring trends, and workforce performa
 **Tools:** Power BI, Excel
 
 Evaluated occupancy rates, booking trends, revenue performance, and customer behavior to identify operational improvement opportunities.
+
+### 🎯 Business KPI Executive Dashboard
+**Tools:** Power BI, SQL
+
+Developed an executive-level dashboard that consolidated key business metrics, including revenue, profit, customer growth, operational efficiency, and performance KPIs for strategic decision-making.
 
 ### 💳 Customer Segmentation Analysis
 **Tools:** Python, SQL
